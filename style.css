@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(255, 255, 184);
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(255, 157, 122);
+    padding: 40px;
+    font-family: "Akaya Kanadaka", serif;
+    font-weight: 400;
+    color: white;
+    text-shadow: orangered 4px 4px;
+    margin-top: -20px;
+    
+}
+
+
+nav{
+    background-color:rgb(255, 255, 113) ;
+    text-align: center;
+    padding: 20px;
+    margin-top: -40PX;
+    border: orangered 4px dashed ;
+}
+
+footer{
+    margin-top:150px;
+    text-align:center;
+    color: red;
+    background-color:rgb(255, 255, 113);
+}
+
+a{
+    border: 3px rgb(240, 78, 67) solid;
+    color: white;
+    background-color:rgb(253, 162, 129) ;
+}
+
+a:hover{
+    border: 3px rgb(240, 78, 67) solid;
+    color: white;
+    background-color:rgb(240, 78, 67);
+    
+}
+.columna{
+    padding: 20px;
+    border-style: dashed ;
+    border-color: orangered;
+    margin-top: -1.5%;
+}
+
+section{
+    background-color:rgb(255, 194, 171) ;
+    padding-bottom: 130px;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right:25%;
+    border:5px solid ;
+    border-top-left-radius: 10px;
+    border-top: 5px dashed;
+    border-bottom: 5px dotted;
+    border-right: 7px double;
+    border-color:red;
+}
+
+.texto {
+    text-align: center;
+    color:red;
+    text-decoration:underline;
+}
+
+div{
+    text-align: center;
+    color:red;
+    font-size: bold;
+}
+
+.formulario{
+    margin-left: 70vh;
+    margin-top: -40vh;
+    margin-right: 30vh ;
+    background-color: rgb(255, 133, 88);
+    color: white;
+}
+
+.content {
+    display: inline-block;
+    text-align: center;
+    margin-left: 90vh;
+    font-weight: bold;
+}
+
+.mapa{
+    margin-right: 135vh;
+}
